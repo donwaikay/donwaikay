@@ -1,4 +1,4 @@
-<h1>Hi, I'm Olayinka Olasimbo <br/><a href="https://github.com/donwaikay">Devops Engineer</a>, <a href="https://www.linkedin.com/in/olayinkaolasimbo/">Cloud/Devops Professional</a>
+<h1>Hi, I'm Olayinka Olasimbo <br/><a href="https://github.com/donwaikay">Devops Engineer</a>, <a href="https://www.linkedin.com/in/olayinkaolasimbo/"
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
