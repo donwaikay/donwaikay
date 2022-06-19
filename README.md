@@ -9,6 +9,7 @@
   - [CI/CD for java application](https://github.com/donwaikay/CICD_Java_gradle_application)
 - <b>Containerization and Orchestration with docker and kubernetes</b>
   - [Kubernetes nginx mongodb deployment](https://github.com/donwaikay/kubernetes_nginx_mongodb)
+  - [voting result app deployment](https://github.com/donwaikay/voting_result_app_k8s.git)
   - [EKS demos](https://github.com/donwaikay/eks-demos)
 - <b>Configuration Management with Ansible</b>
   - [ansible for aws vpc](https://github.com/donwaikay/ansible-aws-vpc)
