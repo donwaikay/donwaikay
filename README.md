@@ -5,8 +5,6 @@
 - <b>Infrastructure as code using terraform</b>
   - [Terraform with docker](https://github.com/donwaikay/terraform-docker)
   - [Terraform AWS VPC creation](https://github.com/donwaikay/terraform_vpc_creation)
-- <b>Continous Integration and Delivery</b>
-  - [CI/CD for java application](https://github.com/donwaikay/CICD_Java_gradle_application)
 - <b>Containerization and Orchestration with docker and kubernetes</b>
   - [Kubernetes nginx mongodb deployment](https://github.com/donwaikay/kubernetes_nginx_mongodb)
   - [voting result app deployment](https://github.com/donwaikay/voting_result_app_k8s.git)
