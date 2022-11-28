@@ -3,19 +3,27 @@
 <h2>👨‍💻 Devops Projects:</h2>
 
 - <b>Infrastructure as code using terraform</b>
-  - [Terraform with docker](https://github.com/donwaikay/terraform-docker)
+  - [Terraform with Docker](https://github.com/donwaikay/terraform-docker)
   - [Terraform AWS VPC creation](https://github.com/donwaikay/terraform_aws_vpc_creation)
+  
+- <b>CI/CD Deployment with Jenkins</b>
+  - [Jenkins End to End Pipeline Deployment to Digital Ocean kubernetes using Helm-Charts](https://github.com/donwaikay/jenkins-end-to-end-pipeline)
+  - [Jenkins with Terraform Deployment to AWS Elastic Kubernetes Service ](https://github.com/donwaikay/realone-repo) 
+  
 - <b>Containerization and Orchestration with docker and kubernetes</b>
   - [Kubernetes nginx mongodb deployment](https://github.com/donwaikay/kubernetes_nginx_mongodb)
   - [voting result app deployment](https://github.com/donwaikay/voting_result_app_k8s.git)
-  - [EKS demos](https://github.com/donwaikay/eks-demos)
+  
+- <b>Configuration Management with Ansible</b>
+  - [Ansible VPC Creation](https://github.com/donwaikay/ansible-aws-vpc)
+  
+  
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/donwaikay
 [linkedin]: https://linkedin.com/in/olayinkaolasimbo
 
 <!--
